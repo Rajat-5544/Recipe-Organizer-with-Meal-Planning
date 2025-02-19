@@ -1,0 +1,75 @@
+{
+    "next_id": 4,
+    "recipes": {
+        "1": {
+            "name": "Pasta",
+            "ingredients": [
+                {
+                    "name": "Tomato",
+                    "quantity": "100"
+                },
+                {
+                    "name": "Onion",
+                    "quantity": "50"
+                }
+            ],
+            "steps": [
+                "Boil water",
+                "Add pasta"
+            ],
+            "category": "Dinner",
+            "tags": [
+                "Vegetarian",
+                "Low-Carb"
+            ]
+        },
+        "2": {
+            "name": "Fried Rice",
+            "ingredients": [
+                {
+                    "name": "Rice",
+                    "quantity": "200"
+                },
+                {
+                    "name": "Vegetables",
+                    "quantity": "0.00"
+                }
+            ],
+            "steps": [
+                "Cook rice",
+                "Stir-fry with vegetables"
+            ],
+            "category": "Lunch",
+            "tags": [
+                "Vegetarian"
+            ]
+        },
+        "3": {
+            "name": "Pancakes",
+            "ingredients": [
+                {
+                    "name": "Flour",
+                    "quantity": "250"
+                },
+                {
+                    "name": "Milk",
+                    "quantity": "200"
+                },
+                {
+                    "name": "Egg",
+                    "quantity": "0.00"
+                }
+            ],
+            "steps": [
+                "Mix ingredients",
+                "Pour batter on pan",
+                "Flip when golden brown"
+            ],
+            "category": "Breakfast",
+            "tags": [
+                "Non-Vegetarian",
+                "Sweet Dish"
+            ]
+        }
+    }
+}
